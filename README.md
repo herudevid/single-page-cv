@@ -1,1 +1,1 @@
-# single-page-cv
+https://herudevid.github.io/single-page-cv/
